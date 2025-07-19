@@ -35,8 +35,8 @@ Follow these steps to run the project locally:
 ### 1\. Clone the Repository
 
 ```bash
-git clone https://github.com/AliefKaka/Tos.git
-cd Tos
+git clone https://github.com/AliefKaka/Web-Ally.git
+cd Web-Ally
 ```
 
 ### 2\. Install Dependencies
