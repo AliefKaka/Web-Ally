@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://absolutealliance.my.id/sitemap.xml
