@@ -1,4 +1,4 @@
-# Tos
+# Web-Ally
 
 Hello everyone\! 👋
 
