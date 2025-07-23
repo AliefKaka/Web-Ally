@@ -113,7 +113,7 @@ const Certificate = ({ ImgSertif }) => {
 								fontWeight: 600,
 								textShadow: "0 2px 4px rgba(0,0,0,0.3)",
 							}}>
-							View Certificate
+							View Detail
 						</Typography>
 					</Box>
 				</Box>
