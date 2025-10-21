@@ -212,7 +212,7 @@ const ContactPage = () => {
                  required
               >
                  <option value="" disabled hidden>Pilih Divisi</option>
-                 <option value="Divisi 1" disabled>Divisi 1 (Minimal Level 30)</option>
+                 <option value="Divisi 1" disabled>Divisi 1 (PENUH)</option>
                  <option value="Divisi 2">Divisi 2 (Minimal Level 20)</option>
                 </select>
               </div>
